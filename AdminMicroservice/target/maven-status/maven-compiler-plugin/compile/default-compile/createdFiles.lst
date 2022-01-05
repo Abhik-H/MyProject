@@ -1,0 +1,9 @@
+org\mesonmsit\utils\Misc.class
+org\mesonmsit\utils\testMain.class
+org\mesonmsit\dao\UserSearchDao.class
+org\mesonmsit\utils\DBConnection.class
+org\mesonmsit\utils\Constants.class
+org\mesonmsit\utils\Bundles.class
+org\mesonmsit\dto\UserSearchDetailsDto.class
+org\mesonmsit\handlers\AlumniDetailsHandler.class
+org\mesonmsit\dto\ResponseDto.class

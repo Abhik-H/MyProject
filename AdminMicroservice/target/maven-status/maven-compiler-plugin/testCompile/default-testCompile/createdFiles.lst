@@ -1,0 +1,14 @@
+org\mesonmsit\handlers\TestUtils$DateTimeSerializer.class
+org\mesonmsit\handlers\TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+org\mesonmsit\handlers\TestUtils.class
+org\mesonmsit\handlers\TestContext$1.class
+org\mesonmsit\handlers\TestUtils$1.class
+org\mesonmsit\handlers\TestUtils$DynamodbEventMixin$RecordMixin.class
+org\mesonmsit\handlers\TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+org\mesonmsit\handlers\TestContext$TestLogger.class
+org\mesonmsit\handlers\TestUtils$DynamodbEventMixin.class
+org\mesonmsit\handlers\CyclotronUserManagementTest.class
+org\mesonmsit\handlers\TestContext.class
+org\mesonmsit\handlers\TestUtils$DateTimeDeserializer.class
+org\mesonmsit\handlers\TestUtils$TestJacksonMapperModule.class
+org\mesonmsit\handlers\TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
